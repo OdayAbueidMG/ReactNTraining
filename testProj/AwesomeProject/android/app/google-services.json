@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476593618900",
+    "firebase_url": "https://trainingproject-2eb28.firebaseio.com",
+    "project_id": "trainingproject-2eb28",
+    "storage_bucket": "trainingproject-2eb28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476593618900:android:3064f3e037283d776f2041",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476593618900-06j125og27bapdlfkldfccep1g1tguq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphHGO9r6FEtAcI_e9apJm8oKn9J4PObw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476593618900-06j125og27bapdlfkldfccep1g1tguq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
